@@ -5,7 +5,7 @@
         public $altura; // Atributo altura
 
         public function falar() {  // Criando o método falar
-            echo "falou";
+            echo "Testee";
         }
     }
 
